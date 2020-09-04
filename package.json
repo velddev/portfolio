@@ -22,7 +22,7 @@
   "dependencies": {
     "bulma": "^0.7.2",
     "fuse.js": "^3.3.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "node-static": "^0.7.11",
     "parcel-bundler": "^1.11.0"
   },
